@@ -1,0 +1,14 @@
+img[src]{
+	height:100px;
+	width:100px;
+	border-radius:50px;
+}
+div{
+	background-color:white;
+	border:solid 4px green;
+}
+p{
+	color:red;
+	font-size:20px;
+}
+	
